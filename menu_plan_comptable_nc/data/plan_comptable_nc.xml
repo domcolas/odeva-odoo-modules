@@ -1,0 +1,8 @@
+<odoo>
+    <record id="nc_chart_template" model="account.chart.template">
+        <field name="name">Plan Comptable NC</field>
+        <field name="code_digits">6</field>
+        <field name="bank_account_code_prefix">512</field>
+        <field name="currency_id" ref="base.XPF"/>
+    </record>
+</odoo>
