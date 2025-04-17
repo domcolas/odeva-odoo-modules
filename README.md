@@ -1,1 +1,1 @@
-# Modules personnalisés Odoo - Odeva
+# Modules personnalisés Odeva pour Odoo 17
